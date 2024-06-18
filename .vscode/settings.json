@@ -1,5 +1,4 @@
 {
-    "python.defaultInterpreterPath": "python",
-    "python.pythonPath": "${workspaceRoot}/.venv/bin/python",
-    "python.terminal.activateEnvironment": true
+    "python.defaultInterpreterPath": "${workspaceRoot}/.venv/bin/python3",
+    "python.terminal.activateEnvironment": true,    
 }
