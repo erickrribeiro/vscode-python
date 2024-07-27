@@ -3,6 +3,7 @@
         "--config",
         "setup.cfg"
     ],
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
     "python.defaultInterpreterPath": "${workspaceRoot}/.venv/bin/python3",
     "python.envFile": "${workspaceFolder}/.env",
     "python.terminal.activateEnvironment": true,
